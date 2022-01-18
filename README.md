@@ -1,7 +1,7 @@
-Aplicativo desenvolvido no Bootcamp de Front End & Mobile da SoulCode Academy.
+Aplicativo desenvolvido em React Native no Bootcamp de Front End & Mobile da SoulCode Academy.
                        
 Briefing  
-Criação de um App voltado para serviços de moto-táxista dividido em 3 partes.
+Criação de um App voltado para serviços de moto-táxista dividido em 3 partes. Quando uma viagem é solicitada pelo cliente a cooperativa recebe e distribui aos motoristas;
 
 1º Aplicativo voltado para o cliente - 
 2º Aplicativo voltado para a cooperativa -
@@ -15,11 +15,11 @@ Login com autenticação e validação;
 
 Cadastro para novos usuários;
 
-Solicitação de corridas (Usando geolocalização e API do google para mostrar o trajeto);
+Solicitação de corridas (Usando geolocalização e API do google para mostrar o trajeto), 
 
 Historico de corridas;
 
-Integração com banco de dados (firebase);
+Integração com banco de dados (Firebase);
 
 Edição de cadastro do cliente;
 
