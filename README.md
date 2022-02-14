@@ -25,7 +25,7 @@ Edição de cadastro do cliente;
 
 Logout.
 
-Caso queira testar o app será necessário inserir a chave da API Google e subistituira o caminho para o FireBase.
+Caso queira testar o app será necessário inserir a chave da API Google e substituir o caminho para o FireBase.
 
 
 ![Captura de Tela (732)](https://user-images.githubusercontent.com/84743443/149993435-25fffbc0-ef18-4b57-a748-d7f5c3a70d34.png)
