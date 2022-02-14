@@ -1,5 +1,6 @@
 Aplicativo desenvolvido em React Native no Bootcamp de Front End & Mobile da SoulCode Academy.
-                       
+App utiliza Funções async, Router, Contex, Hooks, conexão com Firebase Authentication e Cloud Firestore.
+
 Briefing  
 Criação de um App voltado para serviços de moto-táxista dividido em 3 partes. Quando uma viagem é solicitada pelo cliente a cooperativa recebe e distribui aos motoristas;
 
